@@ -1,6 +1,6 @@
 +++
 author = []
-categories = []
+categories = ["vco"]
 date = 2021-12-22T23:00:00Z
 description = ""
 image = "/images/2020-landscape-2.png"
