@@ -25,4 +25,5 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/new-vcf.md
 - content/blog/simple-vco.md
